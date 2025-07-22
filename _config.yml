@@ -10,11 +10,11 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Homepage"
-title_separator          : "-"
+# title_separator          : "-"
 name                     : &name "Zihao Zhang"
 description              : &description "personal description"
 url                      : https://djdhdjj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "djdhdjj/djdhdjj.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zihao Zhang"  # 请替换为你的真实英文名
-  pronouns         : 
+  # pronouns         : 
   bio              : "Master student @ Zhejiang University | Recommender Systems,Machine Learning"
   location         : "Ningbo, China"
   employer         : "Zhejiang University"
-  uri              : 
+  # uri              : 
   email            : "22551058@zju.edu.cn"  # 替换为你的浙大邮箱
 
   # Academic websites
